@@ -1,0 +1,17 @@
+{
+  "name": "javascript-algorithms",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Classical algorithms implemented in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "expect": "^1.20.2",
+    "mocha": "^9.2.2"
+  }
+}
